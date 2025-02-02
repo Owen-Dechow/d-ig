@@ -45,7 +45,7 @@ pub const GIT_IGNORE: &str = "test.gitignore";
 #[cfg(not(feature = "test"))]
 pub const GIT_IGNORE: &str = ".gitignore";
 
-pub const PROGRAM_NAME: &str = "Git Ignore Builder";
+pub const PROGRAM_NAME: &str = "Dechow Git Ignore Builder (d-ig)";
 pub const PROGRAM_VERSION: &str = "0.1.0";
 
 pub const TITLE_WRAPPER_OPEN: &str = "#==========================================[";
