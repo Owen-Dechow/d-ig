@@ -31,5 +31,5 @@ Commands:
  is explicitly a tool to help manage .gitignore files.
 ```
 
-# Gitignote
+# Gitignore
 All ignore groups are created using the gitignore repo: https://github.com/github/gitignore
