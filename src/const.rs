@@ -46,7 +46,7 @@ pub const GIT_IGNORE: &str = "test.gitignore";
 pub const GIT_IGNORE: &str = ".gitignore";
 
 pub const PROGRAM_NAME: &str = "Dechow Git Ignore Builder (d-ig)";
-pub const PROGRAM_VERSION: &str = "0.1.0";
+pub const PROGRAM_VERSION: &str = "0.1.1";
 
 pub const TITLE_WRAPPER_OPEN: &str = "#==========================================[";
 pub const TITLE_WRAPPER_CLOSE: &str = "]==========================================#";

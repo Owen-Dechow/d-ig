@@ -12,7 +12,7 @@ cargo install d-ig
 
 ## CLI Help Menu
 ```
-Dechow Git Ignore Builder (d-ig) (0.1.0)
+Dechow Git Ignore Builder (d-ig) (0.1.1)
 
 Commands:
     --create, -c [IGNORE_GROUPS]            Creates a .gitignore at same level of .git directory with given ignore groups.
